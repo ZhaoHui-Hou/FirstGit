@@ -2,18 +2,21 @@ package com.hzh.git;
 
 /**@Description: 
  * @author: hzh
- * @date: 2021Äê4ÔÂ18ÈÕÏÂÎç6:39:17 
+ * @date: 2021éªï¿½4éˆï¿½18éƒãƒ¤ç¬…é—ï¿½6:39:17 
  */
 
 public class HelloGit2 {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!");
-		System.out.println("ÄãºÃ£¡£¡£¡£¡£¡");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("Ö÷¸ÉÌí¼Ó");
-		System.out.println("·ÖÖ§Ìí¼Ó");
+		System.out.println("ä½ å¥½ï¼ï¼ï¼ï¼ï¼");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("ä¸»å¹²æ·»åŠ ");
+		System.out.println("åˆ†æ”¯æ·»åŠ ");
 		
-		System.out.println("µÚ¶ş´ÎÌá½»Ö®Ç°¸üĞÂ");
+		System.out.println("ç¬¬äºŒæ¬¡æäº¤ä¹‹å‰æ›´æ–°");
+
+		System.out.println("åœ¨çº¿æ›´æ–°");
+		
 	}
 }
