@@ -11,5 +11,6 @@ public class HelloGit2 {
 		System.out.println("Hello Git!!");
 		System.out.println("你好！！！！！");
 		System.out.println("创建分支");
+		System.out.println("主干添加");
 	}
 }
